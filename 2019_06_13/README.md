@@ -2,6 +2,7 @@
 
 * [fork-basico.c](fork-basico.c)
 * [fork-wait.c](fork-wait.c)
+* [Ejemplo fibonacci.c](fibonacci.c)
 
 #Tarea
 * Como garantizar que siempre se ejecute primero el padre?
